@@ -1,9 +1,9 @@
 2022-10-03
   
 CLI: revanced-cli-2.14.0-all.jar  
-Integrations: app-release-unsigned-v0.47.1.apk  
-Patches: revanced-patches-2.78.0.jar  
-[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.78.0)  
+Integrations: app-release-unsigned-v0.48.0.apk  
+Patches: revanced-patches-2.79.0.jar  
+[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.79.0)  
 
 TikTok version: 26.3.4  
 
