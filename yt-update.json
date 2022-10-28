@@ -1,6 +1,6 @@
 {
-  "version": "v",
-  "versionCode": 48,
-  "zipUrl": "https://github.com/simulasi2/a-revanced-magisk-module/releases/download/48/youtube-revanced-magisk-v17.41.37-all.zip",
+  "version": "v17.41.37",
+  "versionCode": 49,
+  "zipUrl": "https://github.com/simulasi2/a-revanced-magisk-module/releases/download/49/youtube-revanced-magisk-v17.41.37-all.zip",
   "changelog": "https://raw.githubusercontent.com/simulasi2/a-revanced-magisk-module/update/build.md"
 }
