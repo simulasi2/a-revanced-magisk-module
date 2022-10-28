@@ -1,6 +1,6 @@
 {
-  "version": "v5.29.52 ",
-  "versionCode": 47,
-  "zipUrl": "https://github.com/simulasi2/a-revanced-magisk-module/releases/download/47/music-revanced-magisk-v5.29.52-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/simulasi2/a-revanced-magisk-module/update/latest_build.md"
+  "version": "v5.29.52",
+  "versionCode": 48,
+  "zipUrl": "https://github.com/simulasi2/a-revanced-magisk-module/releases/download/48/music-revanced-magisk-v5.29.52-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/simulasi2/a-revanced-magisk-module/update/build.md"
 }
