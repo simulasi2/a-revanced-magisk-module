@@ -24,7 +24,7 @@ build-mode = "both"
 excluded-patches = "hide-create-button custom-branding-name custom-branding-icon-afn-blue custom-branding-icon-afn-red custom-branding-icon-mmt hide-info-cards custom-branding-icon-revancify-blue custom-branding-icon-revancify-red disable-fullscreen-panels disable-startup-shorts-player disable-zoom-haptics hide-autoplay-button hide-cast-button hide-create-button hide-shorts-button swipe-controls hide-endscreen-cards hide-mix-playlists hide-time-and-seekbar hide-stories"
 included-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-enabled = false
+enabled = true
 [Music]
 build-mode = "both"
 app-name = "Music"
