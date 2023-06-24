@@ -1,4 +1,5 @@
 YouTube: 18.19.35  
+YouTube-Extended: 17.34.36  
 Music (arm64-v8a): 6.07.50  
 Music (arm-v7a): 6.07.50  
 TikTok: 30.1.2  
@@ -9,6 +10,12 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to 
 
 ---
 Changelog:  
+CLI: j-hc/revanced-cli-2.22.0-all.jar  
+Integrations: kitadai31/revanced-integrations-0.96.4.apk  
+Patches: kitadai31/revanced-patches-2.160.4.jar  
+
+- Fix: 
+---
 CLI: j-hc/revanced-cli-2.22.0-all.jar  
 Integrations: revanced/revanced-integrations-0.111.0.apk  
 Patches: revanced/revanced-patches-2.178.0.jar  
