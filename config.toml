@@ -18,10 +18,9 @@ module-prop-name = "ytrv-magisk"
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-rv-brand = "ReVanced Extended"
+excluded-patches = "hide-create-button custom-branding-youtube-name custom-branding-icon-mmt custom-branding-icon-revancify-red custom-branding-icon-revancify-blue disable-fullscreen-panels disable-startup-shorts-player disable-zoom-haptics hide-autoplay-button hide-cast-button hide-create-button hide-shorts-button swipe-controls hide-endscreen-cards"                                                                                            # space-seperated patches to exclude (multiline strings are not supported)
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-enable = false
 
 [Music]
 build-mode = "both"
