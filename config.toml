@@ -10,9 +10,7 @@ build-mode = "both"                                                   # 'both', 
 excluded-patches = "hide-create-button custom-branding disable-fullscreen-panels disable-startup-shorts-player disable-zoom-haptics hide-autoplay-button hide-cast-button hide-create-button hide-shorts-button swipe-controls hide-endscreen-cards"                                                 # space-seperated patches to exclude (multiline strings are not supported)                                                 # space-seperated patches to exclude (multiline strings are not supported)
 included-patches = ""                                                 # space-seperated patches to include (non-excluded patches are included by default)
 version = "auto"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
-exclusive-patches = false                                             # excludes all patches by default and only applies included-patches
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-module-prop-name = "ytrv-magisk"
 
 [YouTube-Extended]
 app-name = "YouTube android6-7"
@@ -28,6 +26,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 app-name = "YouTube ext"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 excluded-patches = "hide-create-button custom-branding-youtube-name custom-branding-icon-mmt custom-branding-icon-revancify-red custom-branding-icon-revancify-blue disable-fullscreen-panels disable-startup-shorts-player disable-zoom-haptics hide-autoplay-button hide-cast-button hide-create-button hide-shorts-button swipe-controls hide-endscreen-cards"                                                                                            # space-seperated patches to exclude (multiline strings are not supported)
 build-mode = "both"
@@ -43,6 +42,7 @@ apkmirror-arch = "both"                                                     # bo
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
@@ -50,12 +50,9 @@ apkmirror-arch = "both"
 enabled = false
 [Twitter]
 build-mode = "apk"
-excluded-patches = "hide-views-stats"
-version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 enabled = false
 [Twitch]
-build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 enabled = false
 [TikTok]
