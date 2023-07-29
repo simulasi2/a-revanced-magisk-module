@@ -15,9 +15,20 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "ytrv-magisk"
 
 [YouTube-Extended]
-app-name = "YouTube"
+app-name = "YouTube android6-7"
+patches-source = "kitadai31/revanced-patches-android6-7"
+integrations-source = "kitadai31/revanced-integrations"
+rv-brand = "ReVanced Extended android6-7"
+excluded-patches = "hide-create-button custom-branding-youtube-name custom-branding-icon-mmt custom-branding-icon-revancify-red custom-branding-icon-revancify-blue disable-fullscreen-panels disable-startup-shorts-player disable-zoom-haptics hide-autoplay-button hide-cast-button hide-create-button hide-shorts-button swipe-controls hide-endscreen-cards"                                                                                            # space-seperated patches to exclude (multiline strings are not supported)
+version = "17.34.36"
+build-mode = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+
+[YouTube-Extended]
+app-name = "YouTube ext"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
+rv-brand = "ReVanced Extended"
 excluded-patches = "hide-create-button custom-branding-youtube-name custom-branding-icon-mmt custom-branding-icon-revancify-red custom-branding-icon-revancify-blue disable-fullscreen-panels disable-startup-shorts-player disable-zoom-haptics hide-autoplay-button hide-cast-button hide-create-button hide-shorts-button swipe-controls hide-endscreen-cards"                                                                                            # space-seperated patches to exclude (multiline strings are not supported)
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
