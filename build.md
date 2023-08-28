@@ -1,8 +1,8 @@
-YouTube: 18.23.35  
+YouTube: 18.32.39  
 YouTube-Android6-7: 17.34.36  
 YouTube-Extended: 18.30.37  
-Music (arm-v7a): 6.16.52  
 Music (arm64-v8a): 6.16.52  
+Music (arm-v7a): 6.16.52  
 Music-Extended (arm-v7a): 6.16.52  
 Music-Extended (arm64-v8a): 6.16.52  
 
@@ -12,13 +12,13 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 ---
 Changelog:  
-CLI: j-hc/revanced-cli-2.23.0-all.jar  
-Integrations: ReVanced/revanced-integrations-0.116.2.apk  
-Patches: ReVanced/revanced-patches-2.188.1.jar  
+CLI: j-hc/revanced-cli-3.0.1-all.jar  
+Integrations: ReVanced/revanced-integrations-0.117.0.apk  
+Patches: ReVanced/revanced-patches-2.189.0.jar  
 
-#### [2.188.1](https://github.com/ReVanced/revanced-patches/compare/v2.188.0...v2.188.1) (2023-08-27)
-### Bug Fixes
-* Revert previous release ([ed24a20](https://github.com/ReVanced/revanced-patches/commit/ed24a201a9fbe08dd6694582d0ab08ced8ad026a))
+### [2.189.0](https://github.com/ReVanced/revanced-patches/compare/v2.188.1...v2.189.0) (2023-08-27)
+### Features
+* Restore previous release ([f7352fe](https://github.com/ReVanced/revanced-patches/commit/f7352feb6e9604162b52072d74310b9e3067bc69))
 
 ---
 CLI: inotia00/revanced-cli-2.22.2-all.jar  
@@ -55,7 +55,7 @@ Etc
 ※ Compatible ReVanced Manager: [RVX Manager v1.5.2 (fork)](https://github.com/inotia00/revanced-manager/releases/tag/v1.5.2)
 
 ---
-CLI: j-hc/revanced-cli-2.23.0-all.jar  
+CLI: j-hc/revanced-cli-3.0.1-all.jar  
 Integrations: kitadai31/revanced-integrations-0.96.5.apk  
 Patches: kitadai31/revanced-patches-2.160.5.jar  
 
