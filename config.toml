@@ -8,7 +8,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 build-mode = "both"
-excluded-patches = "hide-create-button custom-branding disable-fullscreen-panels disable-startup-shorts-player disable-zoom-haptics hide-autoplay-button hide-cast-button hide-create-button hide-shorts-button swipe-controls hide-endscreen-cards"
+excluded-patches = "'Hide create button' 'Custom branding' 'Disable fullscreen panels' 'Disable startup shorts player' 'Disable zoom haptics' 'Hide autoplay button' 'Hide cast button' 'Hide create button' 'Hide shorts button' 'Swipe controls' 'Hide endscreen cards'"
 included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -33,7 +33,7 @@ app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
-excluded-patches = "hide-create-button custom-branding-youtube-name custom-branding-icon-mmt custom-branding-icon-revancify-red custom-branding-icon-revancify-blue disable-fullscreen-panels disable-startup-shorts-player disable-zoom-haptics hide-autoplay-button hide-cast-button hide-create-button hide-shorts-button swipe-controls hide-endscreen-cards"  
+excluded-patches = "'Hide Create button' 'Custom branding youtube name' 'Custom branding icon mmt' 'Custom branding icon revancify red' 'Custom branding icon revancify blue' 'Disable fullscreen panels' 'Disable startup shorts player' 'Disable zoom Haptics' 'Hide autoplay button' 'Hide cast button' 'Hide Create button' 'Hide SHorts button' 'Swipe controls' 'Hide endscreen Cards'"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
