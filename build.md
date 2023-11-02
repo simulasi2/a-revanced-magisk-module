@@ -1,11 +1,12 @@
-YouTube: 18.42.41  
+Music (arm64-v8a): 6.22.51  
+YouTube: 18.38.44  
+Music (arm-v7a): 6.22.51  
 Music-Extended (arm64-v8a): 6.25.53  
 Music-Extended (arm-v7a): 6.25.53  
-YouTube-Extended: 18.42.41  
-Music (arm64-v8a): 6.25.53  
-Music (arm-v7a): 6.25.53  
+YouTube-Extended: 18.40.34  
 
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
+Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
