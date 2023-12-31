@@ -12,11 +12,12 @@ excluded-patches = "'Hide create button' 'Custom branding' 'Disable fullscreen p
 included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
+enabled = "false"
 [Music]
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 apkmirror-arch = "both"
+enabled = "false"
 
 [Music-Extended]
 app-name = "Music"
