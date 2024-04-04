@@ -7,7 +7,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 build-mode = "both"
-excluded-patches = ""
+excluded-patches = "'Custom branding' 'Disable fullscreen panels' 'Disable startup shorts player' 'Disable zoom haptics' 'Hide autoplay button' 'Hide cast button' 'Hide create button' 'Hide shorts button' 'Swipe controls' 'Hide endscreen cards' 'Hide timestamp' 'Hide info cards'"
 included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -20,16 +20,20 @@ arch = "both"
 [Twitter]
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+enabled = false
 
 [Twitch]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+enabled = false
 
 [TikTok]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
+enabled = false
 
 [Reddit]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+enabled = false
 
 [Messenger]
 enabled = false
@@ -63,4 +67,5 @@ integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
+excluded-patches = "'Hide Create button' 'Custom branding name YouTube' 'Custom branding icon YouTube' 'Custom branding icon MMT' 'Custom branding icon Revancify Red' 'Custom branding icon Revancify Blue' 'Disable fullscreen panels' 'Disable startup shorts player' 'Disable zoom Haptics' 'Hide autoplay button' 'Hide cast button' 'Hide Create button' 'Hide Shorts button' 'Swipe controls' 'Hide endscreen Cards'"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
