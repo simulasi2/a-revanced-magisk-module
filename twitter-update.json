@@ -1,6 +1,6 @@
 {
-  "version": "v11.81.0-release.0 (patches 3.3.0.mpp)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/simulasi2/a-revanced-magisk-module/releases/download/1/twitter-piko-module-v11.81.0-release.0-all.zip",
+  "version": "v11.81.0-release.0 (patches 3.4.0.mpp)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/simulasi2/a-revanced-magisk-module/releases/download/2/twitter-piko-module-v11.81.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/simulasi2/a-revanced-magisk-module/update/build.md"
 }
