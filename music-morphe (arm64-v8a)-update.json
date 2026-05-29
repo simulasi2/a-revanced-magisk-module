@@ -1,6 +1,6 @@
 {
-  "version": "v8.47.56 (patches 1.29.0.mpp)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/simulasi2/a-revanced-magisk-module/releases/download/3/music-revanced-module-v8.47.56-arm64-v8a.zip",
+  "version": "v8.47.56 (patches 1.30.0.mpp)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/simulasi2/a-revanced-magisk-module/releases/download/4/music-revanced-module-v8.47.56-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/simulasi2/a-revanced-magisk-module/update/build.md"
 }
