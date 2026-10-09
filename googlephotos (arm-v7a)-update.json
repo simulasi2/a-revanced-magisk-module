@@ -1,6 +1,6 @@
 {
-  "version": "v7.68.0.884121604 (patches 6.1.0.rvp)",
-  "versionCode": 20221047,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221047/googlephotos-revanced-module-v7.68.0.884121604-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "version": "v7.92.0.977185651 (patches 1.5.1.mpp)",
+  "versionCode": 11,
+  "zipUrl": "https://github.com/simulasi2/a-revanced-magisk-module/releases/download/11/googlephotos-revanced-module-v7.92.0.977185651-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/simulasi2/a-revanced-magisk-module/update/build.md"
 }
