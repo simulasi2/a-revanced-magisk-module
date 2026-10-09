@@ -4,7 +4,6 @@ Adding another revanced app is as easy as this:
 ```toml
 [Some-App]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/inc/app"
-# or uptodown-dlurl = "https://app.en.uptodown.com/android"
 ```
 
 > [!WARNING]
@@ -37,7 +36,7 @@ build-mode = "apk"   # 'both', 'apk' or 'module'. default: apk
 # 'auto' option gets the latest possible version supported by all the included patches
 # 'latest' gets the latest stable without checking patches support. 'beta' gets the latest beta/alpha
 # whitespace seperated list of patches to exclude. default: ""
-version = "auto"     # 'auto', 'latest', 'beta' or a version number (e.g. '17.40.41'). default: auto
+version = "auto"     # 'auto', 'experimental', 'latest' or a version number (e.g. '17.40.41'). default: auto
 
 # optional args to be passed to cli. can be used to set patch options
 # multiline strings in the config is supported
@@ -55,8 +54,11 @@ included-patches = "'Some Patch'"                          # whitespace seperate
 include-stock = "merged"                                   # 'merged', 'split' or 'disable'. default: merged
 exclusive-patches = false                                  # exclude all patches by default. default: false
 
+# enables in-app update check for `apk` build-mode. default: false
+# as of now, works only for yt, yt music, twitter and gphotos
+enable-update-checks = true
+
 apkmirror-dlurl = "https://www.apkmirror.com/apk/inc/app"
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 # direct download url. the url must have point to an apk file with name format shown in this example
 direct-dlurl = "https://website/com.google.android.youtube-20.40.45-all.apk"
 

@@ -10,17 +10,17 @@ Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube
 
 <details><summary><big>Features</big></summary>
 <ul>
- <li> Supports all present and future ReVanced apps (including projects implementing the same API)</li>
- <li> Can build Magisk modules and non-root APKs</li>
+ <li> Supports all present and future ReVanced apps (including projects implementing the same interface like Morphe)</li>
+ <li> Receives in-app updates</li>
+ <li> Can build modules and non-root APKs</li>
  <li> Updated daily with the latest versions of apps and patches</li>
  <li> Optimizes APKs and modules for size</li>
  <li> Modules</li>
     <ul>
-     <li> recompile invalidated odex for faster usage</li>
-     <li> receive updates from Magisk app</li>
-     <li> do not break safetynet or trigger root detections</li>
      <li> handle installation of the correct version of the stock app and all that</li>
-     <li> support Magisk and KernelSU</li>
+     <li> do not trigger root detections</li>
+     <li> receive updates from Magisk/KernelSU app</li>
+     <li> recompile invalidated odex for faster usage</li>
     </ul>
 </ul>
 </details>
